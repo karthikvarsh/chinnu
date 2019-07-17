@@ -17,7 +17,7 @@ namespace MvcMusicStore.Controllers
     [InitializeSimpleMembership]
     public class AccountController : Controller
     {
-        //
+        //test git
         // GET: /Account/Login
 
         [AllowAnonymous]
